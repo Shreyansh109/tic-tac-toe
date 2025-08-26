@@ -1,5 +1,5 @@
 def ttt():
-	import time
+	import time#added to give some good effects in program
 	import random
 	time.sleep(1)
 	print('Manan: Hi!')
